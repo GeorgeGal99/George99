@@ -1,0 +1,36 @@
+.redcar{
+    text-align: center;
+    border:solid 1px;
+    background-color: red;
+    margin:auto;
+    color: blue;
+    margin-top: 10px;
+}
+ss
+nav {
+  background-color: #122895;
+  font-family: Arial;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  padding: 10px;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+header {
+  padding: 30px;
+  text-align: center;
+  background-color: rgb(122, 89, 156);
+  color: #ffffff;
+}

@@ -1,0 +1,14 @@
+table.custom-table {
+    border-collapse: collapse;
+    border: 2px solid black;
+  }
+  
+  tr.blue-row:nth-child(odd) {
+    background-color: blue;
+  }
+  
+  td {
+    padding: 15px;
+    border: none;
+    text-align: center;
+  }

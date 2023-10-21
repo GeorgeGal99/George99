@@ -1,0 +1,23 @@
+ul.lista{
+         list-style-type: none;
+        padding-left: 10;
+      }
+      
+      ul.lista li {
+        position: relative;
+          padding-left: 20px;
+      }
+      
+      ul.lista li:before {
+         transform: translate(-50%, -50%);
+        width: 10px;
+        height: 10px;
+         background-color: red;
+         border-radius: 40%;
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 60%;
+        
+      }
+

@@ -1,0 +1,19 @@
+p{
+    border-left: 50px solid ;
+    border-top: 2px solid ;
+    border-bottom: 2px solid;
+    border-right: 2px solid;
+}
+h1{
+    border: 8px groove red;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+}
+.dotted{
+
+    margin-top: 8px;
+    margin-left: inherit;
+    border:5px dotted black;
+}
+

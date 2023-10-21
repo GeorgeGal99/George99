@@ -1,0 +1,9 @@
+a.custom-link{
+    color:green;
+    text-decoration: none;
+}
+    a.custom-link:hover,
+    a.custom-link:active{
+        color: red;
+    }
+
